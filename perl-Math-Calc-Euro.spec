@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	Calc-Euro
+%define		pdir	Math
+%define		pnam	Calc-Euro
 Summary:	Math::Calc::Euro - convert between Euro and the old currencies
 Summary(pl):	Math::Calc::Euro - przeliczanie miêdzy Euro i starymi walutami
 Name:		perl-Math-Calc-Euro
