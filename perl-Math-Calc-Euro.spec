@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Calc-Euro
 Summary:	Math::Calc::Euro - convert between Euro and the old currencies
-Summary(pl):	Math::Calc::Euro - przeliczanie miêdzy Euro i starymi walutami
+Summary(pl.UTF-8):   Math::Calc::Euro - przeliczanie miÄ™dzy Euro i starymi walutami
 Name:		perl-Math-Calc-Euro
 Version:	0.02
 Release:	2
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The Math::Calc::Euro module provides for an object oriented interface
 for converting to/from Euro.
 
-%description -l pl
-Modu³ Math::Calc::Euro udostêpnia obiektowo zorientowany interfejs do
+%description -l pl.UTF-8
+ModuÅ‚ Math::Calc::Euro udostÄ™pnia obiektowo zorientowany interfejs do
 przeliczania na/z Euro.
 
 %prep
