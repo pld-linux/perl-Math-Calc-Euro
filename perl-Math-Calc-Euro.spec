@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Calc-Euro
 Summary:	Math::Calc::Euro - convert between Euro and the old currencies
-Summary(pl.UTF-8):   Math::Calc::Euro - przeliczanie między Euro i starymi walutami
+Summary(pl.UTF-8):	Math::Calc::Euro - przeliczanie między Euro i starymi walutami
 Name:		perl-Math-Calc-Euro
 Version:	0.02
 Release:	2
