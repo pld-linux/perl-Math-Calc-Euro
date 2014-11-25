@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	Math
 %define		pnam	Calc-Euro
+%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Calc::Euro - convert between Euro and the old currencies
 Summary(pl.UTF-8):	Math::Calc::Euro - przeliczanie między Euro i starymi walutami
 Name:		perl-Math-Calc-Euro
@@ -14,6 +14,7 @@ License:	Public Domain
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	975bc78efc86ff4598988b13265bf26f
+URL:		http://search.cpan.org/dist/Math-Calc-Euro/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
