@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	Calc-Euro
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Calc::Euro - convert between Euro and the old currencies
 Summary(pl.UTF-8):	Math::Calc::Euro - przeliczanie między Euro i starymi walutami
 Name:		perl-Math-Calc-Euro
