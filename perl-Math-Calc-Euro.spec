@@ -8,7 +8,7 @@ Summary:	Math::Calc::Euro - convert between Euro and the old currencies
 Summary(pl.UTF-8):	Math::Calc::Euro - przeliczanie między Euro i starymi walutami
 Name:		perl-Math-Calc-Euro
 Version:	0.02
-Release:	3
+Release:	4
 License:	Public Domain
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
